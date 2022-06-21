@@ -1,0 +1,3 @@
+repository,issue_url,security_level,message,location_path,location_start_line,location_end_line
+"UniGenie","https://api.github.com/repos/Niche-538/UniGenie/code-scanning/alerts/2","high","Sensitive data returned by an access to password is logged here.\nSensitive data returned by an access to password is logged here.","webapp/src/components/login.jsx",71,71
+"UniGenie","https://api.github.com/repos/Niche-538/UniGenie/code-scanning/alerts/1","high","This part of the regular expression may cause exponential backtracking on strings containing many repetitions of '#'.","webapp/src/components/addUniversity.jsx",18,18
